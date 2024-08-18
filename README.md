@@ -1,7 +1,5 @@
 # Students Performance Analysis
 
-This repository contains a Jupyter Notebook "student-performance.ipynb" that analyzes 
-
 ## Overview
 
 The "student-performance.ipynb" notebook explores student performance data through exploratory data analysis (EDA), statistical analysis, and visualization techniques. The dataset used "Students_Performance_Data.numbers" contains 1000 test scores (Math/ Reading/ Writing) from (female/male) students of different races/ethnicities. 
